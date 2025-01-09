@@ -66,5 +66,3 @@ http://localhost:8000/health
 ```
 
 ---
-
-Let me know if you need further modifications!
